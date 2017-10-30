@@ -40,6 +40,20 @@ var num2= form1.n2.value;
     var num1= form1.n1.value;
 var num2= form1.n2.value;
     
+    
+    var num2= form1.n2.value;
+        var num1= form1.n1.value;
+var num2= form1.n2.value;
+    var num2= form.n8.value;
+    var num1= form1.n1.value;
+var num2= form1.n2.value;
+    
+    var num2= form1.n2.value;
+        var num1= form1.n1.value;
+var num2= form1.n2.value;
+    var num2= form.n8.value;
+    var num1= form1.n1.value;
+var num2= form1.n2.value;
 var resultado= parseInt(num1) + parseInt(num2);
 alert("El resultado de la suma es: "+ resultado);
 document.write("<h1>" + num1 + "+" + num2 + "=" + resultado + "</h1>");
